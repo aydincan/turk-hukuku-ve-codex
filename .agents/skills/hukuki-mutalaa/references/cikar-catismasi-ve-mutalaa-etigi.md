@@ -1,0 +1,24 @@
+# Çıkar Çatışması ve Mütalaa Etiği
+
+## Görev
+Mütalaa işini kabul etmeden önce çıkar çatışması, sır saklama ve tarafsızlık yükümlülüklerini denetlemek; özellikle HMK m.293 uyarınca dosyaya sunulacak uzman görüşlerinde mütalaayı verenin bağımsızlığını ve metnin güvenilirliğini korumak.
+
+## Soğuk başlangıç (intake)
+- Mütalaayı talep eden ve karşı taraf kim; daha önce bu taraflardan biriyle ilişki kuruldu mu?
+- Görüş mahkemeye uzman görüşü olarak mı sunulacak (HMK m.293), yoksa danışmanlık mı?
+- Talep edilen sonuç önceden dayatılıyor mu ("şu sonucu çıkaran mütalaa")?
+- Sır niteliğinde bilgi içeriyor mu?
+
+## Denetim şeması
+1. Çıkar çatışması taraması: Aynı uyuşmazlıkta karşı tarafa daha önce hizmet verildi mi, taraflardan biriyle menfaat bağı var mı? Avukat için 1136 sayılı Avukatlık Kanunu m.38 (işi reddetme zorunluluğu) ve meslek kuralları; çatışma varsa iş reddedilir.
+2. Sır saklama: Avukatlık Kanunu m.36 ve TBK vekâlet hükümleri — mütalaa hazırlanırken öğrenilen bilgiler sır kapsamındadır; üçüncü kişiyle paylaşılmaz.
+3. Bilimsel mütalaada tarafsızlık: HMK m.293 uzman görüşü, ücreti tarafça ödense de bilimsel dürüstlükle yazılmalıdır; sipariş üzerine sonuç üretmek (advokatlaşmış mütalaa) belgenin ispat değerini düşürür ve etik sorun doğurur. Aleyhe argüman tartışılır.
+4. Sonuç dayatması testi: Talep eden belirli bir sonucu zorluyorsa, mütalaa ya gerçek hukuki durumu yazar ya da iş reddedilir; gerçeğe aykırı görüş üretilmez.
+5. Hukuki danışmanlık sınırı: Mütalaa genel hukuki değerlendirmedir; vekâlet ilişkisi ve fiili dava temsili ayrı sözleşme gerektirir; bu sınır belirtilir.
+6. Ara sonuç: İş kabul edilebilir mi + etik uyarılar + tarafsızlık/sır notları.
+
+## Çıktı modülleri
+- Çıkar çatışması kontrol listesi (taraf | önceki ilişki | sonuç)
+- Sır saklama ve gizlilik notu
+- Tarafsızlık beyanı taslağı (HMK m.293 görüşü için)
+- İş kabul/ret değerlendirmesi

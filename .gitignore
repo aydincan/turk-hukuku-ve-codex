@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editör
+.idea/
+.vscode/
+*.swp
+
+# Geçici
+*.tmp
+*.log
+.git-commit-msg.tmp
+
+# Codex yerel/kişisel ayarlar (paylaşılmaz)
+.codex/

@@ -1,0 +1,35 @@
+# Yorum Yöntemleri ve Boşluk Doldurma
+
+## Görev
+Normun anlamını yöntemli biçimde belirlemek (yorum) veya norm yokluğunda boşluğu TMK m.1
+disipliniyle doldurmak; yorum argümanlarını hiyerarşik ve gerekçeli biçimde sıralamak.
+
+## Soğuk başlangıç (intake)
+- Norm var mı? Varsa anlamı mı tartışmalı (yorum), yoksa hiç mi yok (boşluk)?
+- Boşluk gerçek (kural hiç yok) mü, örtülü/açık mı, yoksa "kasıtlı sessizlik" (a contrario) mi?
+- Tartışmada karşı tarafın dayandığı yorum argümanı ne?
+- Emredici/yasaklayıcı bir alanda mıyız (kıyas yasağı/dar yorum gerektiren alan var mı, ör. ceza)?
+
+## Denetim şeması
+1. **Lafzî yorumla başla.** Metnin olağan dil anlamını sapta (TMK m.1: önce kanunun "sözü").
+   Açık ve tek anlamlı lafız varsa amaçsal yoruma zıt sonuç çıkarmaktan çekin.
+2. **Sistematik + tarihsel + amaçsal yorumu ekle.** Normun kanun içindeki yerini, gerekçesini
+   (tarihsel) ve koruduğu amacı (gai/teleolojik) değerlendir. TMK m.1: kanunun "özü/ruhu".
+   Objektif-güncel ve sübjektif-tarihsel yorum gerilimini, hangisinin makul sonucu verdiğini
+   tartışarak çöz.
+3. **Mantıksal argümanları sırala.** Kıyas (benzer olaya benzer kural), evleviyet (a fortiori),
+   aksi ile kanıt (a contrario) ve amaca aykırı genişlemeyi daraltan teleolojik redüksiyonu
+   uygula. Ceza hukukunda kıyas yasağı (TCK m.2; Anayasa m.38 kanunilik) sınırını mutlaka gözet.
+4. **Boşluk tespiti ve doldurma.** Norm yoksa: (a) örtülü boşluk-kasıtlı susma ayrımını yap;
+   (b) kasıtlı susma ise a contrario; (c) gerçek boşluk ise önce örf-âdet hukuku (TMK m.1/II),
+   sonra hâkimin hukuk yaratması (TMK m.1/II son cümle: "kendisi kanun koyucu olsaydı")
+   devreye girer; (d) bu yaratma "bilimsel görüşlere ve yargı kararlarına" dayandırılır
+   (TMK m.1/III). Ara sonuç: kanun → örf-âdet → hâkim hukuku sırası.
+5. **İspat/gerekçe yükü.** Tercih edilen yorumun neden diğerlerine üstün olduğu gerekçelendirilir;
+   dayanak doktrin/yerleşik içtihat ile desteklenir, künye doğrulanmadıkça [doğrulanacak].
+
+## Çıktı modülleri
+- Yorum argümanları tablosu (lafzî/sistematik/tarihsel/amaçsal + sonuç).
+- Boşluk tipi etiketi ve doldurma yolu (TMK m.1 sırasıyla).
+- Karşı argümana cevap notu.
+- Önerilen yorumun gerekçeli özeti.

@@ -1,0 +1,24 @@
+# Haksız Fiil ve Sebepsiz Zenginleşmenin Roma Kökleri
+
+## Görev
+Sözleşme dışı borç kaynaklarını — haksız fiil ve sebepsiz zenginleşme — Roma'nın delictum ve condictio kurumlarına bağlamak; kusur, hukuka aykırılık ve iade dogmatiğini tarihî temelleriyle açıklamak.
+
+## Soğuk başlangıç (intake)
+- Konu haksız fiil mi, sebepsiz zenginleşme mi, ikisinin yarışması mı?
+- Hangi unsur tartışılıyor (kusur, illiyet, hukuka aykırılık, iade kapsamı)?
+- Çıktı akademik mi, yorum argümanı mı?
+
+## Denetim şeması
+1. Modern temeli sabitle: haksız fiilin unsurları TBK m.49 vd. — fiil, hukuka aykırılık, kusur, zarar, illiyet bağı; manevi tazminat TBK m.58. Sebepsiz zenginleşme TBK m.77 vd. — haklı bir sebep olmaksızın malvarlığı kayması, iade; iade kapsamı TBK m.79, kötüniyetli zenginleşen TBK m.80.
+2. Haksız fiilin Roma kökünü kur: delictum (özel hukuk haksız fiili) — furtum (hırsızlık), rapina, iniuria (kişiliğe saldırı), damnum iniuria datum. Mala verilen zarar için lex Aquilia temel düzenlemedir; modern damnum (zarar) ve culpa (kusur) kavramları buradan gelir. Kusur dereceleri (dolus, culpa lata, culpa levis) modern kast-ihmal ayrımının atasıdır.
+3. Hukuka aykırılığı bağla: damnum iniuria datum'daki iniuria (hukuka aykırılık) unsuru, TBK m.49/f.1'deki hukuka aykırılık şartının kökenidir. Salt zarar değil, hukuka aykırı zarar aranır.
+4. Sebepsiz zenginleşmenin Roma kökünü kur: condictio davaları — condictio indebiti (borç olmayanın ödenmesi), condictio causa data causa non secuta (gerçekleşmeyen sebep), condictio ob turpem vel iniustam causam. Bunlar TBK m.77'deki geçerli olmayan/gerçekleşmeyen/sona eren sebep ayrımının kaynağıdır.
+5. Yarışmayı çöz: aynı maddi olayda haksız fiil ve sebepsiz zenginleşme taleplerinin yarışması (TBK m.60 benzeri seçimlik haklar mantığı) Roma'daki actio'lar yarışması düşüncesiyle bağlanır; ancak çözümü yürürlükteki maddeye göre ver.
+6. Ara sonuç: somut talebi doğru köke oturt; unsurları madde sırasına göre denetle.
+
+İspat/dayanak: TBK m.49, m.58, m.77, m.79-80 ile; Roma kurumları (lex Aquilia, condictio) fragmanla; doktrin [doğrulanacak].
+
+## Çıktı modülleri
+- Unsur soykütüğü tablosu (TBK unsuru / Roma karşılığı).
+- Kusur dereceleri karşılaştırması (dolus-culpa / kast-ihmal).
+- condictio tipleri ile TBK m.77 sebep ayrımı eşlemesi.

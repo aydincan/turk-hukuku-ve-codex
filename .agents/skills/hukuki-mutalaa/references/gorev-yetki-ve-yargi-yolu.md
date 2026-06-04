@@ -1,0 +1,24 @@
+# Görev, Yetki ve Yargı Yolu Tespiti
+
+## Görev
+Uyuşmazlığın doğru yargı kolu (adli/idari), görevli mahkeme, yetkili yer ve varsa zorunlu ön prosedür (dava şartı arabuluculuk, idari başvuru, hakem heyeti) yönünden çerçevesini çizmek. Yanlış yol veya merci, esasa girilmeden davanın reddine yol açar.
+
+## Soğuk başlangıç (intake)
+- Uyuşmazlık özel hukuk mu, idareyle/kamu gücüyle mi ilgili?
+- Taraflar tacir mi, uyuşmazlık ticari iş niteliğinde mi?
+- Sözleşmede tahkim/yetki şartı var mı?
+- Zorunlu bir ön başvuru/arabuluculuk gerekiyor mu?
+
+## Denetim şeması
+1. Yargı yolu ayrımı: İdari işlem/eylem ve kamu gücü kullanımı idari yargıda (İYUK m.2 — iptal/tam yargı); özel hukuk ilişkileri adli yargıda; vergi uyuşmazlıkları vergi mahkemesinde. Yargı yolu yanlışsa merci tecavüzü/görevsizlik doğar.
+2. Görevli mahkeme: Adli yargıda kural asliye hukuk (HMK m.2); sulh hukukun görevi sınırlıdır (HMK m.4 — kira/tahliye, paylaştırma, vb.). Özel görevli mahkemeler: tüketici mahkemesi (6502), iş mahkemesi (7036), ticaret mahkemesi (TTK m.5 — ticari davalar), aile mahkemesi, fikri-sınai haklar mahkemesi. Görev kamu düzenindendir, re'sen gözetilir (HMK m.114/1-c).
+3. Yetki (yer): Genel yetki davalının yerleşim yeri (HMK m.6); özel/kesin yetki halleri (taşınmazda HMK m.12, sözleşmede ifa yeri HMK m.10, haksız fiilde HMK m.16) ayrıca kontrol edilir; kesin yetki re'sen gözetilir.
+4. Zorunlu ön prosedür: Ticari ve işçilik alacaklarında dava şartı arabuluculuk (7036 m.3, 6325/TTK m.5/A), tüketici uyuşmazlıklarında parasal sınır altında tüketici hakem heyeti (6502), idari para cezalarında sulh ceza hâkimliği (5326), idari işlemde gerekiyorsa zorunlu idari başvuru.
+5. Tahkim/yetki şartı: Geçerli tahkim şartı varsa mahkeme yolu kapalıdır (HMK m.413/tahkim hükümleri); yetki sözleşmesinin geçerlilik şartları (HMK m.17-18) denetlenir.
+6. Ara sonuç: Yargı yolu + görevli mahkeme + yetkili yer + zorunlu ön başvuru tek bir tabloda.
+
+## Çıktı modülleri
+- Yargı yolu ve görevli mahkeme tespiti (gerekçeli)
+- Yetkili yer mahkemesi (genel/özel/kesin ayrımıyla)
+- Zorunlu ön prosedür kontrol listesi
+- Yanlış yol/merci riski uyarısı

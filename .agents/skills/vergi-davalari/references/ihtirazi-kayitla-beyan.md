@@ -1,0 +1,22 @@
+# İhtirazi Kayıtla Beyan ve Dava
+
+## Görev
+Beyana dayalı tarhta dava yolunu açık tutmak için ihtirazi kaydı doğru kurgulamak; tereddütlü ya da idari görüşe aykırı bir matrah/vergi unsurunu beyan ederken hakkı saklı tutarak iade veya iptal davasına zemin hazırlamak.
+
+## Soğuk başlangıç (intake)
+1. Hangi vergi ve dönem için beyanname veriliyor; tereddütlü unsur ne (istisna, indirim, KDV iadesi, stopaj)?
+2. Beyan, bir tebliğ/sirküler/özelge görüşüne uyularak mı yapılıyor, yoksa o görüşe rağmen mi?
+3. Beyanname elektronik mi veriliyor; ihtirazi kayıt nasıl işaretlenecek?
+4. Vergi ödendi mi, ödenecek mi; amaç iade mi yoksa tahakkukun iptali mi?
+
+## Denetim şeması
+1. **Hukuki dayanak.** VUK m.378/2 — mükellef kendi beyanına karşı dava açamaz; istisna, beyana ihtirazi kayıt konulması ve/veya idari hata-hukuka aykırılık iddiasıdır. İYUK m.27/4 kapsamında ihtirazi kayıtla beyanda tahsil kendiliğinden durmaz.
+2. **İhtirazi kaydın şekli.** Beyanname üzerinde (e-beyanname sisteminde ilgili alanda) ihtirazi kayıt açıkça belirtilmeli; hangi unsurun ihtirazi kayda konu olduğu somutlaştırılmalı. Kayıtsız beyandan sonra dava hakkı kural olarak doğmaz.
+3. **Süre.** Tahakkuk fişinin düzenlenmesi/beyannamenin verilmesi ile dava süresi (İYUK m.7, 30 gün) işlemeye başlar. Tahakkuk fişinin tebliği esas alınır.
+4. **Esas denetimi.** İhtirazi kayda konu unsur (örn. bir istisnanın uygulanmaması, bir giderin kabul edilmemesi) için maddi vergi kanunu hükmü ve idari görüşün hukuka uygunluğu altlanır. Ara sonuç: idari görüşün kanuna aykırılığı gösterilebiliyorsa dava ve iade şansı yüksektir.
+5. **İade boyutu.** Dava kazanılırsa fazla/yersiz ödenen vergi VUK ve ilgili tebliğ çerçevesinde iade edilir; faiz/red faizi talebi ayrıca kurulur.
+
+## Çıktı modülleri
+- İhtirazi kayıt metni (beyannameye eklenecek somut ifade).
+- İhtirazi kayda dayalı dava dilekçesi iskeleti.
+- İade/faiz talep notu.
