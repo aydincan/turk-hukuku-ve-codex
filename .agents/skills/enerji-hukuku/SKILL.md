@@ -40,7 +40,9 @@ Enerji hukuku: EPDK düzenlemesi altında elektrik/doğal gaz piyasaları, lisan
 
 İçtihat yalnızca doğrulanmış künyeyle (mahkeme + daire + esas/karar no + tarih +
 doğrulanabilir kaynak); **model hafızasından karar numarası üretme**; emin olunmayan künye
-`[doğrulanacak]`. Mevzuat madde/fıkra ile. Ayrıntılı kural kökteki `AGENTS.md`'dedir.
+`[doğrulanacak]`. Mevzuat madde/fıkra ile. `turk-hukuku-mevzuat-mcp` /
+`turk-hukuku-ictihat-mcp` araçları kuruluysa metni hafızadan değil onlardan çek
+(`madde_getir`, `ictihat_ara`, `karar_getir`). Ayrıntılı kural kökteki `AGENTS.md`'dedir.
 
 ---
 
