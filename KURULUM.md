@@ -18,8 +18,8 @@ hukuk alanı `.agents/skills/<alan>/SKILL.md` altında bir skill'dir; alt-konula
 ## A) Repo içinde kullanım (en kolay)
 
 ```bash
-git clone https://github.com/aydincan/codex-ve-turk-hukuku.git
-cd codex-ve-turk-hukuku
+git clone https://github.com/aydincan/turk-hukuku-ve-codex.git
+cd turk-hukuku-ve-codex
 codex
 ```
 

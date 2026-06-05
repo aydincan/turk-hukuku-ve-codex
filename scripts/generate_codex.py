@@ -35,8 +35,8 @@ PAZAR = {
     "sahip": _p["sahip"],
     "lisans": _p["lisans"],
     "ithaf": _p["ithaf"],
-    "homepage": "https://github.com/aydincan/codex-ve-turk-hukuku",
-    "kurulum_yolu": "aydincan/codex-ve-turk-hukuku",
+    "homepage": "https://github.com/aydincan/turk-hukuku-ve-codex",
+    "kurulum_yolu": "aydincan/turk-hukuku-ve-codex",
     "aciklama": ("Codex ve Türk Hukuku — OpenAI Codex için Türk hukuku Agent Skills "
                  "koleksiyonu. Her hukuk alanı bir skill; metodoloji, atıf hijyeni, sözleşme, "
                  "dava ve mütalaa iş akışları. Katı kaynak hijyeni: içtihat yalnızca "
@@ -205,7 +205,7 @@ Codex skill'leri şu konumlardan tarar: `.agents/skills/` (repo), `~/.agents/ski
 
 ```bash
 git clone https://github.com/{kurulum}.git
-cd codex-ve-turk-hukuku
+cd turk-hukuku-ve-codex
 codex
 ```
 

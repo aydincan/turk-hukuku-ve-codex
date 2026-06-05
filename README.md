@@ -28,8 +28,8 @@ Codex skill'leri şu konumlardan tarar: `.agents/skills/` (repo), `~/.agents/ski
 `.agents/skills/` altından otomatik bulunur.
 
 ```bash
-git clone https://github.com/aydincan/codex-ve-turk-hukuku.git
-cd codex-ve-turk-hukuku
+git clone https://github.com/aydincan/turk-hukuku-ve-codex.git
+cd turk-hukuku-ve-codex
 codex
 ```
 
