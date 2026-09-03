@@ -29,11 +29,12 @@ kendi sistematiğine göre (özel/kamu hukuku, suç genel teorisi, dava şartlar
 - **Mevzuat** madde/fıkra/bent ile gösterilir (ör. "TBK m.49/1", "HMK m.114/1-ç").
 - **Doktrin** yalnızca kullanıcı kaynağı veya lisanslı erişimle; yazar-eser-baskı-sayfa ile.
 - Varsayımlar açıkça "varsayım" diye işaretlenir; sahte kesinlik üretilmez.
-- MCP araçları varsa resmî metni onlardan çek. `turk-hukuku-mevzuat-mcp` kuruluysa
-  kanun/madde metnini hafızadan değil `madde_getir` / `kanun_metni_getir` / `mevzuat_ara`
-  ile getir; `turk-hukuku-ictihat-mcp` kuruluysa kararları `ictihat_ara` / `karar_getir`
-  ile bulup künyeyi (mahkeme, esas/karar no, tarih) aynen aktar. Bu araçlar mevcutsa
-  doğrulamada önce onları kullan; yoksa yukarıdaki künye kuralları aynen geçerlidir.
+- MCP sunucuları kuruluysa resmî metni onlardan çek. `turk-hukuku-mevzuat-mcp` kanun ve
+  madde metnini mevzuat.gov.tr'den, `turk-hukuku-ictihat-mcp` kararları Yargıtay/BAM
+  (UYAP Emsal), Danıştay ve AYM (bireysel başvuru, norm denetimi) bankalarından canlı
+  getirir; hangi aracın ne zaman kullanılacağı araçların kendi açıklamalarındadır. Bu
+  sunucular varsa doğrulamada önce onları kullan ve dönen künyeyi aynen aktar; yoksa
+  yukarıdaki künye kuralları aynen geçerlidir.
 
 ## Sınırlar
 

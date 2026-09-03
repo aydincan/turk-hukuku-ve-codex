@@ -41,8 +41,8 @@ Yabancılar ve uluslararası koruma: 6458 sayılı Kanun — ikamet izinleri, s�
 İçtihat yalnızca doğrulanmış künyeyle (mahkeme + daire + esas/karar no + tarih +
 doğrulanabilir kaynak); **model hafızasından karar numarası üretme**; emin olunmayan künye
 `[doğrulanacak]`. Mevzuat madde/fıkra ile. `turk-hukuku-mevzuat-mcp` /
-`turk-hukuku-ictihat-mcp` araçları kuruluysa metni hafızadan değil onlardan çek
-(`madde_getir`, `ictihat_ara`, `karar_getir`). Ayrıntılı kural kökteki `AGENTS.md`'dedir.
+`turk-hukuku-ictihat-mcp` sunucuları kuruluysa kanun metnini ve kararları hafızadan
+değil onlardan çek. Ayrıntılı kural kökteki `AGENTS.md`'dedir.
 
 ---
 
