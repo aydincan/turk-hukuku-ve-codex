@@ -172,7 +172,7 @@ def build_readme(skill_count, topic_count):
         ge = [e for e in eklentiler if e["grup"] == gk]
         if not ge:
             continue
-        satir = "\n".join(f"| `{e['slug']}` | {e['baslik']} | {e['aciklama']} |" for e in ge)
+        satir = "\n".join(f"| `{e['slug']}` | [{e['baslik']}](https://turk-hukuku.com/beceriler/{e['slug']}/) | {e['aciklama']} |" for e in ge)
         bloklar.append(f"### {gad}\n\n| Skill | Başlık | Açıklama |\n|---|---|---|\n{satir}\n")
     katalog = "\n".join(bloklar)
     return f"""# {PAZAR['baslik']}
@@ -187,6 +187,10 @@ def build_readme(skill_count, topic_count):
 **Yazar:** {PAZAR['sahip']}
 
 > *{PAZAR['ithaf']}*
+
+> **Terminal kullanmıyor musunuz?** Aynı beceriler ve resmî kaynak bağlantısı, Mac ve Windows
+> için bir [masaüstü uygulamasında](https://turk-hukuku.com/uygulama/) da var: indirin, yapay
+> zekâ anahtarınızı ekleyin, sorun. Tüm hukuk alanları ve rehberler: [turk-hukuku.com](https://turk-hukuku.com/).
 
 ---
 
