@@ -30,8 +30,8 @@ kendi sistematiğine göre (özel/kamu hukuku, suç genel teorisi, dava şartlar
 - **Doktrin** yalnızca kullanıcı kaynağı veya lisanslı erişimle; yazar-eser-baskı-sayfa ile.
 - Varsayımlar açıkça "varsayım" diye işaretlenir; sahte kesinlik üretilmez.
 - MCP sunucuları kuruluysa resmî metni onlardan çek. `turk-hukuku-mevzuat-mcp` kanun ve
-  madde metnini mevzuat.gov.tr'den, `turk-hukuku-ictihat-mcp` kararları Yargıtay/BAM
-  (UYAP Emsal), Danıştay ve AYM (bireysel başvuru, norm denetimi) bankalarından canlı
+  madde metnini mevzuat.gov.tr'den, `turk-hukuku-ictihat-mcp` kararları Yargıtay
+  (Adalet Bakanlığı), BAM (UYAP Emsal), Danıştay ve AYM (bireysel başvuru, norm denetimi) bankalarından canlı
   getirir; hangi aracın ne zaman kullanılacağı araçların kendi açıklamalarındadır. Bu
   sunucular varsa doğrulamada önce onları kullan ve dönen künyeyi aynen aktar; yoksa
   yukarıdaki künye kuralları aynen geçerlidir.
