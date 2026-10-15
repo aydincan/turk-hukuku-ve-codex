@@ -14,7 +14,7 @@ Davalı savunmasını HMK m.126-129 çerçevesinde kurmak; ilk itirazları, esas
 2. İlk itirazlar (HMK m.116-117): Kesin olmayan yetki, derdestlik, tahkim itirazı, iş bölümü; hepsi cevap dilekçesinde birlikte ileri sürülür, sonradan ileri sürülemez.
 3. Esasa cevap (m.129): Davacının her vakıasına karşı açık tutum (kabul/inkâr/bilmeme); savunma sebepleri ve karşı deliller. Zamanaşımı def'i mutlaka burada ileri sürülmeli (TBK m.161 — hâkim re'sen dikkate almaz).
 4. Karşı dava (m.132-134): Asıl dava ile bağlantı veya takas/mahsup şartı; süresinde ve aynı dilekçede.
-5. Replik-düplik (m.136): Davacı cevaba cevap, davalı ikinci cevap verir; teksif ilkesi (m.141) gereği bundan sonra iddia/savunma genişletilemez (ıslah ve karşı tarafın açık muvafakati hariç). Ara sonuç: süre/itiraz/def'i eksiksizse imzaya hazır.
+5. Replik-düplik (m.136): Davacı cevaba cevap, davalı ikinci cevap verir; teksif ilkesi (m.141) gereği bundan sonra iddia/savunma genişletilemez (ıslah ve karşı tarafın açık muvafakati hariç). Ara sonuç: süre/itiraz/def'i eksiksizse taslak, avukatın son incelemesine ve imzasına hazırdır.
 
 ## Çıktı modülleri
 - Cevap dilekçesi taslağı (ilk itiraz + esasa cevap + def'iler)

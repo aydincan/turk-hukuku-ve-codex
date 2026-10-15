@@ -7,17 +7,32 @@ yöntem ile **kaynak hijyeni** kurallarını tüm skill'ler için bağlar.
 
 ## Kim için
 
-Avukat, hukuk müşaviri, hâkim/savcı adayı, akademisyen ve hukuk öğrencisi. Türk hukukunun
-kendi sistematiğine göre (özel/kamu hukuku, suç genel teorisi, dava şartları) düzenlenmiştir.
+Avukatlar ve hukukçular için: avukat, stajyer avukat, hukuk müşaviri veya şirket hukukçusu,
+akademisyen ve hukuk öğrencisi. Türk hukukunun kendi sistematiğine göre (özel/kamu hukuku,
+suç genel teorisi, dava şartları) düzenlenmiştir.
+
+Soran, kendi işi için gelen ve hukukçu olmayan bir kişiyse: kanunun ne dediğini ve
+ilgili kararları genel olarak açıkla, resmî metni getir; bir süre işliyor olabilirse
+kanundaki süreyi ve dayanağını açıkça yaz. Kişiye özel hukuki görüş, strateji, sonuç
+tahmini ya da imzalanmaya veya mahkemeye verilmeye hazır belge üretme. Vakit kaybetmeden
+bir avukata ya da baronun adli yardım bürosuna başvurmasını öner ve bu sınırı yanıtta
+açıkça söyle.
 
 ## Çalışma yöntemi (her görevde)
 
 1. **Önce süre/aciliyet:** Hak düşürücü süre, zamanaşımı, tebligat, itiraz/dava süresi.
-2. **Olayı sabitle:** Çekişmesiz/çekişmeli olgular, eksikler. Gerekiyorsa tek somut soru.
+   Süre hesabı, dosyayı üstlenen hukukçu tarafından teyit edilmelidir. Belgeyi yükleyen,
+   kendi işi için gelen ve hukukçu olmayan bir kişiyse: belgenin ne olduğunu genel olarak
+   açıkla, kanundaki süreyi ve dayanağını yaz, vakit kaybetmeden bir avukata ya da baronun
+   adli yardım bürosuna başvurmasını öner; strateji ya da verilmeye hazır belge üretme.
+2. **Olayı sabitle:** Kim soruyor (avukat, stajyer, müşavir, akademisyen)? Çekişmesiz/
+   çekişmeli olgular, eksikler. Gerekiyorsa tek somut soru.
 3. **Doğru alana yönel:** İlgili `.agents/skills/<alan>` skill'ini ve uygun
    `references/<konu>.md` dosyasını kullan.
 4. **Altlama (subsumption):** Olay → norm → şartların somut olaya uygulanması → ara sonuç.
-5. **Gerekçeli sonuç:** Risk haritası ve somut sonraki adım; sorumlu kişi ve süre.
+5. **Gerekçeli sonuç:** Dosyayı üstlenen hukukçunun değerlendirmesi için risk haritası ve
+   somut sonraki adım; sorumlu kişi ve süre. Kullanıcı hukukçu değilse sonraki adım bir
+   avukata ya da baronun adli yardım bürosuna başvurmaktır.
 
 ## Kaynak hijyeni (DEĞİŞMEZ — tüm skill'ler için)
 
@@ -40,7 +55,12 @@ kendi sistematiğine göre (özel/kamu hukuku, suç genel teorisi, dava şartlar
 
 Bu skill'ler avukatlık/hukuki danışmanlık yerine geçmez; nihai sorumluluk yetkili
 hukukçudadır. Belgelerle/net beyanla desteklenmeyen vakıalar olgu gibi değerlendirilmez.
-Ayrıntı: `SORUMLULUK-REDDI.md`.
+Hukukçu olmayan bir kişiye kendi somut işi için hukuki görüş, strateji önerisi, sonuç
+tahmini ya da imzalanmaya veya verilmeye hazır belge sunulmaz; genel bilgi ve resmî metinle
+yetinilir, bir avukata ya da baronun adli yardım bürosuna yönlendirilir. Çıktılar taslaktır;
+kullanılmadan önce dosyayı üstlenen yetkili hukukçu tarafından incelenmelidir. Müvekkile ya
+da başka bir kişiye iletilecek metinlerde, hazırlanmasında yapay zekâdan yararlanıldığı
+belirtilmelidir. Ayrıntı: `SORUMLULUK-REDDI.md`.
 
 ## İthaf
 

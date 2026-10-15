@@ -41,6 +41,7 @@ cp -R .agents/skills/* ~/.agents/skills/
 - `$` yazıp bir skill'i adıyla çağırın (ör. `$vergi-davalari`).
 - Ya da görevinizi anlatın; açıklamanız bir skill'in tanımıyla eşleşince Codex onu
   kendiliğinden seçer.
+- Skill'ler hukukçular içindir; çıktılar avukat incelemesi için taslaktır.
 
 Bir skill'i silmeden kapatmak için `~/.codex/config.toml`:
 

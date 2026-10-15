@@ -1158,20 +1158,6 @@ Her alan bir skill'dir; alt-konular o skill'in `references/` klasöründedir.
 - `references/cerez-pazarlama-uyumu.md` — Çerez ve Pazarlama Uyumu Denetimi
 - `references/uyum-boslugu-raporu-eylem-plani.md` — Uyum Boşluğu Raporu ve Eylem Planı
 
-### `kendini-temsil-asliye` — Kendini Temsil — Hukuk Mahkemeleri
-
-- `references/temel-kavramlar-ve-sistem.md` — Temel Kavramlar ve Kendini Temsil Sistemi
-- `references/gorev-yetki-ve-forum.md` — Görev, Yetki ve Doğru Mahkemenin Belirlenmesi
-- `references/tuketici-hakem-heyeti-basvuru.md` — Tüketici Hakem Heyeti Başvurusu
-- `references/dava-dilekcesi-hazirlama.md` — Dava Dilekçesi Hazırlama (HMK m.119)
-- `references/cevap-dilekcesi-ve-savunma.md` — Cevap Dilekçesi ve Savunma Hazırlama
-- `references/ispat-ve-delil-sunumu.md` — İspat Yükü ve Delillerin Sunumu
-- `references/sureler-ve-zamanasimi.md` — Süreler ve Zamanaşımı Takibi
-- `references/durusma-hazirligi-ve-on-inceleme.md` — Duruşma Hazırlığı ve Ön İnceleme
-- `references/harc-gider-ve-adli-yardim.md` — Harç, Gider Avansı ve Adli Yardım
-- `references/karar-sonrasi-kanun-yollari-ve-icra.md` — Karar Sonrası Kanun Yolları ve İcra
-- `references/risk-strateji-ve-karar-verme.md` — Risk Değerlendirmesi ve Dava Stratejisi
-
 ### `bilirkisi-rapor-inceleme` — Bilirkişi Raporu İnceleme
 
 - `references/temel-kavramlar-ve-sistem.md` — Bilirkişilik Temel Kavramları ve Sistematik

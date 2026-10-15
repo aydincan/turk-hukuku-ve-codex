@@ -9,7 +9,7 @@ talep kurmak. İptal davası kararın esasının yeniden incelenmesi DEĞİLDİR
 1. Karar iç tahkim (HMK) mi milletlerarası (MTK) mi kararı?
 2. Karar tarafa ne zaman bildirildi (süre hesabı için)?
 3. Hangi sakatlık iddia ediliyor (yetki yokluğu, usul, kamu düzeni)?
-4. Karşı taraf mısınız yoksa iptal mi istiyorsunuz?
+4. Müvekkil iptal davasının davalısı mı, yoksa kararın iptalini mi istiyor?
 
 ## Denetim şeması
 1. **Yetkili mahkeme ve süre**: İç tahkimde **bölge adliye mahkemesi**, kararın

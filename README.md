@@ -1,11 +1,12 @@
 # Codex ve Türk Hukuku
 
-> **Codex ve Türk Hukuku** — OpenAI **Codex** için Türk hukuku **Agent Skills** koleksiyonu.
+> **Codex ve Türk Hukuku:** OpenAI **Codex** için, avukatlar ve hukukçulara yönelik Türk hukuku
+> **Agent Skills** koleksiyonu.
 > Her hukuk alanı bir skill; metodoloji, atıf hijyeni, sözleşme, dava ve mütalaa iş akışları.
 
-Codex ve Türk Hukuku — OpenAI Codex için Türk hukuku Agent Skills koleksiyonu. Her hukuk alanı bir skill; metodoloji, atıf hijyeni, sözleşme, dava ve mütalaa iş akışları. Katı kaynak hijyeni: içtihat yalnızca mahkeme + daire + esas/karar no + tarih + doğrulanabilir kaynakla; uydurma karar numarası yok.
+Codex ve Türk Hukuku: OpenAI Codex için Türk hukuku Agent Skills koleksiyonu; avukatlar ve hukukçular için. Her hukuk alanı bir skill; metodoloji, atıf hijyeni, sözleşme, dava ve mütalaa iş akışları. Çıktılar taslaktır; kullanılmadan önce dosyayı üstlenen yetkili hukukçu tarafından incelenmelidir. Katı kaynak hijyeni: içtihat yalnızca mahkeme + daire + esas/karar no + tarih + doğrulanabilir kaynakla; uydurma karar numarası yok.
 
-**81 skill · 921 alt-konu (references) · Apache-2.0 OR MIT**
+**80 skill · 910 alt-konu (references) · Apache-2.0 OR MIT**
 
 **Yazar:** Aydın Can Polatkan
 
@@ -22,6 +23,13 @@ Codex ve Türk Hukuku — OpenAI Codex için Türk hukuku Agent Skills koleksiyo
 Bu proje **hukuki danışmanlık değildir** ve denenmiş bir ürün değil; teknik bir oyun
 alanıdır. Çıktılar **yürürlükteki mevzuat ve doğrulanmış güncel içtihatla** teyit
 edilmelidir. Ayrıntı: [`SORUMLULUK-REDDI.md`](./SORUMLULUK-REDDI.md).
+
+**Avukatlar ve hukukçular için.** Çıktılar taslaktır; kullanılmadan önce dosyayı üstlenen
+yetkili hukukçu tarafından incelenmelidir. Müvekkile ya da başka bir kişiye iletilecek
+metinlerde, hazırlanmasında yapay zekâdan yararlanıldığı belirtilmelidir. Hukukçu olmayan
+biri kendi işi için sorduğunda skill'ler genel bilgi, resmî metin ve kanundaki süreyle
+yetinir; kişiye özel görüş ya da belge üretmez, bir avukata ya da baronun adli yardım
+bürosuna yönlendirir.
 
 ## Kurulum (OpenAI Codex)
 
@@ -61,7 +69,8 @@ Ayrıntı için [`KURULUM.md`](./KURULUM.md).
 1. Kökteki [`AGENTS.md`](./AGENTS.md) her oturumda yüklenir — yöntem + **kaynak hijyeni**.
 2. Olayınızı anlatın ya da belgeyi verin; Codex uygun alan-skill'ini seçer.
 3. Skill sizi alt-konuya (`references/<konu>.md`) yönlendirir; oradaki denetim şeması uygulanır.
-4. Çıktı: gerekçeli mütalaa, dilekçe/sözleşme taslağı, kontrol listesi veya analiz.
+4. Çıktı: gerekçeli mütalaa, dilekçe/sözleşme taslağı, kontrol listesi veya analiz; hepsi
+   avukat incelemesi için taslaktır. Skill'ler hukukçular içindir.
 
 ## Kaynak hijyeni (omurga)
 
@@ -174,8 +183,8 @@ tarih + doğrulanabilir kaynakla verilir; emin olunmayan künye `[doğrulanacak]
 | `icra-iflas-hukuku` | [İcra ve İflas Hukuku](https://turk-hukuku.com/beceriler/icra-iflas-hukuku/) | İcra ve iflas: 2004 sayılı İİK — ilamlı/ilamsız takip, ödeme emrine itiraz ve itirazın iptali/kaldırılması, kambiyo senetlerine özgü takip, haciz ve satış, sıra cetveli, iflas yolları. |
 | `konkordato-yeniden-yapilandirma` | [Konkordato ve Yeniden Yapılandırma](https://turk-hukuku.com/beceriler/konkordato-yeniden-yapilandirma/) | Konkordato hukuku: geçici ve kesin mühlet, konkordato komiseri ve alacaklılar kurulu, projenin hazırlanması ve tasdiki, sözleşmesel yeniden yapılandırma; mali güçlük yönetimi. |
 | `tahkim-arabuluculuk` | [Tahkim ve Arabuluculuk](https://turk-hukuku.com/beceriler/tahkim-arabuluculuk/) | Alternatif uyuşmazlık çözümü: iç ve milletlerarası tahkim (4686/HMK), tahkim sözleşmesi ve hakem kararının iptali/tenfizi; 6325 sayılı HUAK kapsamında ihtiyari ve dava şartı arabuluculuk. |
-| `dava-dilekce-atolyesi` | [Dava Dilekçesi ve Layiha Atölyesi](https://turk-hukuku.com/beceriler/dava-dilekce-atolyesi/) | Layiha üretimi: HMK/İYUK/CMK'ya uygun dava, cevap, replik-düplik, istinaf ve temyiz dilekçeleri; vakıa-hukuki sebep-talep sonucu mimarisi, delil bağlama ve [doldurulacak] yer tutucu disiplini. |
-| `hukuki-mutalaa` | [Hukuki Mütalaa ve Görüş Yazımı](https://turk-hukuku.com/beceriler/hukuki-mutalaa/) | Hukuki mütalaa ve görüş yazımı: olayın tespiti, hukuki sorunun çerçevelenmesi, mevzuat-içtihat-doktrin değerlendirmesi (altlama), seçeneklerin tartılması ve gerekçeli sonuç; risk haritası ve eylem önerisi. |
+| `dava-dilekce-atolyesi` | [Dava Dilekçesi ve Layiha Atölyesi](https://turk-hukuku.com/beceriler/dava-dilekce-atolyesi/) | Avukatlar için layiha taslağı: HMK, İYUK ve CMK'ya uygun dava, cevap, replik, düplik, istinaf ve temyiz dilekçeleri; vakıa, hukuki sebep ve talep sonucu mimarisi, delil bağlama ve [doldurulacak] yer tutucu disiplini. Çıktı, avukat denetimine hazır müsveddedir. |
+| `hukuki-mutalaa` | [Hukuki Mütalaa ve Görüş Yazımı](https://turk-hukuku.com/beceriler/hukuki-mutalaa/) | Avukatlar ve akademisyenler için hukuki mütalaa taslağı: olayın tespiti, hukuki sorunun çerçevelenmesi, mevzuat, içtihat ve doktrin değerlendirmesi (altlama), seçeneklerin tartılması ve gerekçeli sonuç; risk haritası ve eylem önerisi, mütalaayı imzalayacak hukukçunun değerlendirmesi için. |
 
 ### Sektörel ve Düzenlenmiş Alanlar
 
@@ -202,9 +211,8 @@ tarih + doğrulanabilir kaynakla verilir; emin olunmayan künye `[doğrulanacak]
 | `dava-dosya-takip` | [Dava ve Dosya Takip Yardımcısı](https://turk-hukuku.com/beceriler/dava-dosya-takip/) | Dava dosyası işleme: yapılandırılmış dosya özeti, taraf-vekil ve süre takvimi, vakıa kronolojisi, delil dizini ve eksik/çelişki listesi; dosyaya hızlı hâkim olmayı sağlayan Excel'lenebilir çıktılar. |
 | `sozlesme-inceleme-redline` | [Sözleşme İnceleme ve Redline](https://turk-hukuku.com/beceriler/sozlesme-inceleme-redline/) | Sözleşme inceleme: madde madde risk analizi, eksik/asimetrik/geçersiz şart tespiti, redline önerileri ve alternatif lafızlar, müzakere notu ve risk skoru; TBK ve emredici hükümler süzgeci. |
 | `kvkk-uyum-checker` | [KVKK Uyum Denetleyicisi](https://turk-hukuku.com/beceriler/kvkk-uyum-checker/) | KVKK uyum tarayıcısı: veri işleme envanteri, aydınlatma ve açık rıza metinleri, saklama-imha politikası, aktarım ve VERBİS kontrolü; uyum boşluğu raporu ve eylem planı çıktısı. |
-| `kendini-temsil-asliye` | [Kendini Temsil — Hukuk Mahkemeleri](https://turk-hukuku.com/beceriler/kendini-temsil-asliye/) | Vekille temsil edilmeyen tarafa rehber: küçük alacak ve sulh hukuk uyuşmazlıkları, tüketici hakem heyeti başvurusu, dilekçe ve delil hazırlığı, duruşma hazırlığı; hukuki danışmanlık yerine geçmez. |
 | `bilirkisi-rapor-inceleme` | [Bilirkişi Raporu İnceleme](https://turk-hukuku.com/beceriler/bilirkisi-rapor-inceleme/) | Bilirkişi raporu analizi: görevlendirme kapsamına uygunluk, metodoloji ve dayanak denetimi, hesap ve maddi hata kontrolü, çelişki tespiti; gerekçeli itiraz ve ek rapor/yeni bilirkişi talebi taslağı. |
-| `sade-hukuk-dili` | [Sade Hukuk Dili Çevirmeni](https://turk-hukuku.com/beceriler/sade-hukuk-dili/) | Sade hukuk dili: karmaşık dilekçe, karar ve sözleşmeleri müvekkilin anlayacağı yalın Türkçeye çevirme; hukuki doğruluğu koruyarak özetleme, terim açıklama ve bilgilendirme metni üretimi. |
+| `sade-hukuk-dili` | [Sade Hukuk Dili Çevirmeni](https://turk-hukuku.com/beceriler/sade-hukuk-dili/) | Avukatlar için sade hukuk dili: karmaşık dilekçe, karar ve sözleşmeleri avukatın müvekkile anlatması için yalın Türkçeye çevirme; hukuki doğruluğu koruyarak özetleme, terim açıklama ve bilgilendirme metni taslağı. Çıktı, müvekkile iletilmeden önce avukatın incelemesine sunulur. |
 
 
 ## Lisans

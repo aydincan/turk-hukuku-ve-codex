@@ -7,7 +7,7 @@ Bilirkişi raporunu denetlemeye başlamadan önce zihinsel çerçeveyi kurmak: r
 - Rapor hangi yargı kolundan (hukuk/ceza/idari) ve hangi dava türünden geliyor?
 - Bilirkişi hangi uzmanlık alanından; rapor o alanla mı sınırlı kalmış?
 - Görevlendirme kararını gördünüz mü; bilirkişiye sorulan sorular elinizde mi?
-- Rapor size ne zaman tebliğ edildi (iki haftalık itiraz süresi için)?
+- Rapor ne zaman tebliğ edildi (iki haftalık itiraz süresi için)?
 
 ## Denetim şeması
 1. **Caizlik süzgeci (HMK m.266):** Konu hâkimlik mesleğinin genel/hukuki bilgisiyle çözülebilecek nitelikteyse bilirkişiye gidilmesi başlı başına hukuka aykırıdır. Örn. "sözleşme geçerli midir", "fesih haklı mıdır" gibi salt hukuki sorular bilirkişiye havale edilemez. Ara sonuç: konu teknik mi, hukuki mi?

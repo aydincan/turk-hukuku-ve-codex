@@ -6,7 +6,7 @@ penceresi, tahkim süresi ve zamanaşımı durması gibi sert süreleri tek takv
 hatırlatma kurar.
 
 ## Soğuk başlangıç (intake)
-1. Hangi aşamadasınız (tahkim başlangıcı, hakem kararı sonrası, arabuluculuk son tutanak)?
+1. Dosya hangi aşamada (tahkim başlangıcı, hakem kararı sonrası, arabuluculuk son tutanak)?
 2. Belirleyici tarih nedir (kararın bildirimi, son tutanak tarihi, başvuru tarihi)?
 3. İç tahkim mi MTK mı, dava şartı arabuluculuk mu?
 4. Asıl talebin zamanaşımı/hak düşürücü süresi ne durumda?

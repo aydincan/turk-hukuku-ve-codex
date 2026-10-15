@@ -4,10 +4,10 @@
 Denetim bulgularını HMK m.281'e uygun, süresinde ve somutlaştırılmış bir itiraz dilekçesine dökmek; talep sonucunu (ek rapor / yeni heyet / itibar edilmemesi) bulgu ağırlığına göre netleştirmek.
 
 ## Soğuk başlangıç (intake)
-- Rapor size hangi tarihte tebliğ edildi (iki haftalık sürenin başlangıcı)?
+- Rapor hangi tarihte tebliğ edildi (iki haftalık sürenin başlangıcı)?
 - Hangi bulgular dilekçeye girecek ve her biri hangi dayanağa çıpalı?
-- Asıl talebiniz ek rapor mu, yeni bilirkişi mi, rapora itibar edilmemesi mi?
-- Karşı uzman mütalaası ekleyecek misiniz?
+- Asıl talep ek rapor mu, yeni bilirkişi mi, rapora itibar edilmemesi mi?
+- Karşı uzman mütalaası eklenecek mi?
 
 ## Denetim şeması
 1. **Süre kontrolü (HMK m.281):** İtiraz, raporun tebliğinden itibaren iki hafta içinde yapılır. Son gün hesaplanır; süre geçecekse ek süre/mazeret değerlendirilir. Süre dilekçenin en üstünde teyit edilir.

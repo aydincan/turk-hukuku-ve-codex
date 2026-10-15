@@ -6,7 +6,7 @@ Bilirkişinin kişisel tarafsızlığını ve bağımsızlığını denetlemek; 
 ## Soğuk başlangıç (intake)
 - Bilirkişinin taraflarla akrabalık, husumet, menfaat veya iş ilişkisi var mı?
 - Bilirkişi daha önce aynı işte taraflardan biri için görüş/danışmanlık vermiş mi?
-- Ret sebebini ne zaman ve nasıl öğrendiniz (süre yönünden)?
+- Ret sebebi ne zaman ve nasıl öğrenildi (süre yönünden)?
 - Tarafsızlık şüphesini somutlaştıran belge/olgu nedir?
 
 ## Denetim şeması

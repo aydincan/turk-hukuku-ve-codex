@@ -4,9 +4,9 @@
 Kesinleşmiş ya da kesinleştiği varsayılan kamu alacağının tahsili için çıkarılan ödeme emri ve takip işlemlerine karşı, AATUHK'nın sınırlı itiraz sebepleri çerçevesinde dava kurmak; tahsil aşamasının hukuka uygunluğunu denetlemek.
 
 ## Soğuk başlangıç (intake)
-1. Ödeme emri size ne zaman tebliğ edildi? Üzerindeki alacağın türü ve dönemi ne?
+1. Ödeme emri mükellefe ne zaman tebliğ edildi? Üzerindeki alacağın türü ve dönemi ne?
 2. Bu alacağın aslına ilişkin daha önce ihbarname tebliğ edildi mi, dava açıldı mı?
-3. İtiraz sebebiniz hangisi: böyle bir borç yok / kısmen ödedim / borç zamanaşımına uğradı?
+3. İtiraz sebebi hangisi: böyle bir borç yok / kısmen ödendi / borç zamanaşımına uğradı?
 4. Halihazırda haciz, e-haciz, banka bloke veya ihtiyati haciz uygulandı mı?
 
 ## Denetim şeması

@@ -14,7 +14,7 @@ Soruşturma ve kovuşturma evrelerinde mağdur/şüpheli/sanık vekilliğine uyg
 2. Katılma (CMK m.237-239): Suçtan zarar gören, kovuşturmada katılma talep eder; davaya katılma kararı verilirse haklar genişler.
 3. Koruma tedbirine itiraz (CMK m.267-271): Tutuklama, adli kontrol ve diğer hâkim/mahkeme kararlarına itiraz; süre kural olarak yedi gün (m.268). Salıverilme talebi (m.104) her zaman mümkündür.
 4. Savunma/esas hakkında beyan: İddianamedeki (m.170) suç vasıflandırmasını tartışın; suç genel teorisi katmanlarına göre (tipiklik, hukuka aykırılık, kusurluluk) savunmayı kurun; lehe deliller ve TCK m.21/22 kast-taksir ayrımı.
-5. Delil değerlendirme: Hukuka aykırı delil yasağı (CMK m.206/2, m.217/2; Anayasa m.38/6). Ara sonuç: evre ve sıfata uygun dilekçe, süre içinde hazır.
+5. Delil değerlendirme: Hukuka aykırı delil yasağı (CMK m.206/2, m.217/2; Anayasa m.38/6). Ara sonuç: evre ve sıfata uygun dilekçe taslağı, süre içinde avukat incelemesine hazır.
 
 ## Çıktı modülleri
 - İlgili ceza dilekçesi taslağı (şikâyet/katılma/itiraz/savunma)

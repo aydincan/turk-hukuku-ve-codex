@@ -5,9 +5,9 @@ Anayasa m.36 ve AİHS m.6 kapsamındaki adil yargılanma güvencelerinden hangis
 
 ## Soğuk başlangıç (intake)
 - Hangi yargılamada, hangi güvence ihlal edildi (erişim, gerekçe, eşitlik, süre)?
-- Mahkeme esaslı iddialarınızı/delillerinizi gerekçeyle karşıladı mı?
+- Mahkeme başvurucunun esaslı iddialarını/delillerini gerekçeyle karşıladı mı?
 - Yargılama ne kadar sürdü; gecikme kime atfedilebilir?
-- Şikâyetiniz sonucun yanlışlığına mı, usulün adilliğine mi ilişkin?
+- Şikâyet sonucun yanlışlığına mı, usulün adilliğine mi ilişkin?
 
 ## Denetim şeması
 1. Uygulanabilirlik — m.36: medeni hak ve yükümlülükler ile suç isnadı uyuşmazlıklarında güvence devreye girer.

@@ -37,11 +37,12 @@ PAZAR = {
     "ithaf": _p["ithaf"],
     "homepage": "https://github.com/aydincan/turk-hukuku-ve-codex",
     "kurulum_yolu": "aydincan/turk-hukuku-ve-codex",
-    "aciklama": ("Codex ve Türk Hukuku — OpenAI Codex için Türk hukuku Agent Skills "
-                 "koleksiyonu. Her hukuk alanı bir skill; metodoloji, atıf hijyeni, sözleşme, "
-                 "dava ve mütalaa iş akışları. Katı kaynak hijyeni: içtihat yalnızca "
-                 "mahkeme + daire + esas/karar no + tarih + doğrulanabilir kaynakla; "
-                 "uydurma karar numarası yok."),
+    "aciklama": ("Codex ve Türk Hukuku: OpenAI Codex için Türk hukuku Agent Skills "
+                 "koleksiyonu; avukatlar ve hukukçular için. Her hukuk alanı bir skill; "
+                 "metodoloji, atıf hijyeni, sözleşme, dava ve mütalaa iş akışları. Çıktılar "
+                 "taslaktır; kullanılmadan önce dosyayı üstlenen yetkili hukukçu tarafından "
+                 "incelenmelidir. Katı kaynak hijyeni: içtihat yalnızca mahkeme + daire + "
+                 "esas/karar no + tarih + doğrulanabilir kaynakla; uydurma karar numarası yok."),
 }
 
 
@@ -80,11 +81,26 @@ description: "{skill_aciklama(e)}"
 ## Çalışma akışı
 
 1. **Süre/aciliyet taraması:** Hak düşürücü süre, zamanaşımı, tebligat, duruşma, itiraz
-   süresi var mı? Varsa önce onu sabitle.
-2. **Olayı sabitle:** Çekişmesiz/çekişmeli olgular ve eksikler; en çok bir gezelim soru.
+   süresi var mı? Varsa önce onu sabitle; süre hesabı, dosyayı üstlenen hukukçu
+   tarafından teyit edilmelidir.
+2. **Olayı sabitle:** Kim soruyor (avukat, stajyer, müşavir, akademisyen)? Çekişmesiz/
+   çekişmeli olgular ve eksikler; en çok bir belirleyici soru.
 3. **Alt-konuya in:** Aşağıdaki tablodan ilgili konuyu seç ve `references/<konu>.md`
    dosyasını oku; oradaki denetim şemasını uygula.
 4. **Altlama ve sonuç:** Olay → norm → altlama → gerekçeli sonuç; somut sonraki adım.
+   Kullanıcı hukukçu değilse bu adım bir avukata ya da baronun adli yardım bürosuna
+   başvurmaktır.
+
+## Kimin için
+
+Bu skill avukatlar ve hukukçular içindir (avukat, stajyer avukat, şirket hukukçusu,
+akademisyen, hukuk öğrencisi).
+Soran, kendi işi için gelen ve hukukçu olmayan bir kişiyse: kanunun ne dediğini ve
+ilgili kararları genel olarak açıkla, resmî metni getir; bir süre işliyor olabilirse
+kanundaki süreyi ve dayanağını açıkça yaz. Kişiye özel hukuki görüş, strateji, sonuç
+tahmini ya da imzalanmaya veya mahkemeye verilmeye hazır belge üretme. Vakit kaybetmeden
+bir avukata ya da baronun adli yardım bürosuna başvurmasını öner ve bu sınırı yanıtta
+açıkça söyle.
 
 ## Alt-konular
 
@@ -101,8 +117,11 @@ değil onlardan çek. Ayrıntılı kural kökteki `AGENTS.md`'dedir.
 
 ---
 
-*Deneysel; hukuki danışmanlık değildir. Çıktılar yürürlükteki mevzuat ve doğrulanmış
-içtihatla teyit edilmelidir. Bkz. `SORUMLULUK-REDDI.md`.*
+*Bu skill hukukçular içindir ve hukukçunun çalışmasını yapılandırır; deneyseldir. Çıktılar
+taslaktır; kullanılmadan önce dosyayı üstlenen yetkili hukukçu tarafından incelenmeli,
+yürürlükteki mevzuat ve doğrulanmış içtihatla teyit edilmelidir. Müvekkile ya da başka bir
+kişiye iletilecek metinlerde yapay zekâdan yararlanıldığı belirtilmelidir. Hukuki
+danışmanlık değildir. Bkz. `SORUMLULUK-REDDI.md`.*
 """
 
 
@@ -124,17 +143,32 @@ yöntem ile **kaynak hijyeni** kurallarını tüm skill'ler için bağlar.
 
 ## Kim için
 
-Avukat, hukuk müşaviri, hâkim/savcı adayı, akademisyen ve hukuk öğrencisi. Türk hukukunun
-kendi sistematiğine göre (özel/kamu hukuku, suç genel teorisi, dava şartları) düzenlenmiştir.
+Avukatlar ve hukukçular için: avukat, stajyer avukat, hukuk müşaviri veya şirket hukukçusu,
+akademisyen ve hukuk öğrencisi. Türk hukukunun kendi sistematiğine göre (özel/kamu hukuku,
+suç genel teorisi, dava şartları) düzenlenmiştir.
+
+Soran, kendi işi için gelen ve hukukçu olmayan bir kişiyse: kanunun ne dediğini ve
+ilgili kararları genel olarak açıkla, resmî metni getir; bir süre işliyor olabilirse
+kanundaki süreyi ve dayanağını açıkça yaz. Kişiye özel hukuki görüş, strateji, sonuç
+tahmini ya da imzalanmaya veya mahkemeye verilmeye hazır belge üretme. Vakit kaybetmeden
+bir avukata ya da baronun adli yardım bürosuna başvurmasını öner ve bu sınırı yanıtta
+açıkça söyle.
 
 ## Çalışma yöntemi (her görevde)
 
 1. **Önce süre/aciliyet:** Hak düşürücü süre, zamanaşımı, tebligat, itiraz/dava süresi.
-2. **Olayı sabitle:** Çekişmesiz/çekişmeli olgular, eksikler. Gerekiyorsa tek somut soru.
+   Süre hesabı, dosyayı üstlenen hukukçu tarafından teyit edilmelidir. Belgeyi yükleyen,
+   kendi işi için gelen ve hukukçu olmayan bir kişiyse: belgenin ne olduğunu genel olarak
+   açıkla, kanundaki süreyi ve dayanağını yaz, vakit kaybetmeden bir avukata ya da baronun
+   adli yardım bürosuna başvurmasını öner; strateji ya da verilmeye hazır belge üretme.
+2. **Olayı sabitle:** Kim soruyor (avukat, stajyer, müşavir, akademisyen)? Çekişmesiz/
+   çekişmeli olgular, eksikler. Gerekiyorsa tek somut soru.
 3. **Doğru alana yönel:** İlgili `.agents/skills/<alan>` skill'ini ve uygun
    `references/<konu>.md` dosyasını kullan.
 4. **Altlama (subsumption):** Olay → norm → şartların somut olaya uygulanması → ara sonuç.
-5. **Gerekçeli sonuç:** Risk haritası ve somut sonraki adım; sorumlu kişi ve süre.
+5. **Gerekçeli sonuç:** Dosyayı üstlenen hukukçunun değerlendirmesi için risk haritası ve
+   somut sonraki adım; sorumlu kişi ve süre. Kullanıcı hukukçu değilse sonraki adım bir
+   avukata ya da baronun adli yardım bürosuna başvurmaktır.
 
 ## Kaynak hijyeni (DEĞİŞMEZ — tüm skill'ler için)
 
@@ -157,7 +191,12 @@ kendi sistematiğine göre (özel/kamu hukuku, suç genel teorisi, dava şartlar
 
 Bu skill'ler avukatlık/hukuki danışmanlık yerine geçmez; nihai sorumluluk yetkili
 hukukçudadır. Belgelerle/net beyanla desteklenmeyen vakıalar olgu gibi değerlendirilmez.
-Ayrıntı: `SORUMLULUK-REDDI.md`.
+Hukukçu olmayan bir kişiye kendi somut işi için hukuki görüş, strateji önerisi, sonuç
+tahmini ya da imzalanmaya veya verilmeye hazır belge sunulmaz; genel bilgi ve resmî metinle
+yetinilir, bir avukata ya da baronun adli yardım bürosuna yönlendirilir. Çıktılar taslaktır;
+kullanılmadan önce dosyayı üstlenen yetkili hukukçu tarafından incelenmelidir. Müvekkile ya
+da başka bir kişiye iletilecek metinlerde, hazırlanmasında yapay zekâdan yararlanıldığı
+belirtilmelidir. Ayrıntı: `SORUMLULUK-REDDI.md`.
 
 ## İthaf
 
@@ -177,7 +216,8 @@ def build_readme(skill_count, topic_count):
     katalog = "\n".join(bloklar)
     return f"""# {PAZAR['baslik']}
 
-> **{PAZAR['baslik']}** — OpenAI **Codex** için Türk hukuku **Agent Skills** koleksiyonu.
+> **{PAZAR['baslik']}:** OpenAI **Codex** için, avukatlar ve hukukçulara yönelik Türk hukuku
+> **Agent Skills** koleksiyonu.
 > Her hukuk alanı bir skill; metodoloji, atıf hijyeni, sözleşme, dava ve mütalaa iş akışları.
 
 {PAZAR['aciklama']}
@@ -199,6 +239,13 @@ def build_readme(skill_count, topic_count):
 Bu proje **hukuki danışmanlık değildir** ve denenmiş bir ürün değil; teknik bir oyun
 alanıdır. Çıktılar **yürürlükteki mevzuat ve doğrulanmış güncel içtihatla** teyit
 edilmelidir. Ayrıntı: [`SORUMLULUK-REDDI.md`](./SORUMLULUK-REDDI.md).
+
+**Avukatlar ve hukukçular için.** Çıktılar taslaktır; kullanılmadan önce dosyayı üstlenen
+yetkili hukukçu tarafından incelenmelidir. Müvekkile ya da başka bir kişiye iletilecek
+metinlerde, hazırlanmasında yapay zekâdan yararlanıldığı belirtilmelidir. Hukukçu olmayan
+biri kendi işi için sorduğunda skill'ler genel bilgi, resmî metin ve kanundaki süreyle
+yetinir; kişiye özel görüş ya da belge üretmez, bir avukata ya da baronun adli yardım
+bürosuna yönlendirir.
 
 ## Kurulum (OpenAI Codex)
 
@@ -238,7 +285,8 @@ Ayrıntı için [`KURULUM.md`](./KURULUM.md).
 1. Kökteki [`AGENTS.md`](./AGENTS.md) her oturumda yüklenir — yöntem + **kaynak hijyeni**.
 2. Olayınızı anlatın ya da belgeyi verin; Codex uygun alan-skill'ini seçer.
 3. Skill sizi alt-konuya (`references/<konu>.md`) yönlendirir; oradaki denetim şeması uygulanır.
-4. Çıktı: gerekçeli mütalaa, dilekçe/sözleşme taslağı, kontrol listesi veya analiz.
+4. Çıktı: gerekçeli mütalaa, dilekçe/sözleşme taslağı, kontrol listesi veya analiz; hepsi
+   avukat incelemesi için taslaktır. Skill'ler hukukçular içindir.
 
 ## Kaynak hijyeni (omurga)
 

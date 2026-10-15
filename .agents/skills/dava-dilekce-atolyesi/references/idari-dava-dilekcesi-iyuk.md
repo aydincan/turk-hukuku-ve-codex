@@ -14,7 +14,7 @@
 2. Dava açma süresi (m.7): Kural olarak Danıştay ve idare mahkemelerinde 60 gün, vergi mahkemelerinde 30 gün; süre yazılı bildirimi izleyen günden işler. Özel kanunlardaki farklı süreleri kontrol edin. Süre kamu düzeninden, re'sen incelenir.
 3. Üst makama başvuru (m.11): İşlemin kaldırılması/değiştirilmesi için dava süresi içinde üst makama başvuru süreyi durdurur; cevap verilmez/red gelirse kalan süre işler.
 4. İptal sebepleri: İdari işlemin beş unsuru — yetki, şekil, sebep, konu, maksat — üzerinden sakatlık iddialarını altlayın.
-5. Yürütmenin durdurulması (m.27): İki şart birlikte — telafisi güç/imkânsız zarar ve açık hukuka aykırılık; talebi gerekçelendirip teminat hususunu belirtin. Tam yargıda zarar ve idari kusur/sorumluluk dayanağını kurun. Ara sonuç: süre içinde ve unsurlar tamsa dilekçe hazır.
+5. Yürütmenin durdurulması (m.27): İki şart birlikte — telafisi güç/imkânsız zarar ve açık hukuka aykırılık; talebi gerekçelendirip teminat hususunu belirtin. Tam yargıda zarar ve idari kusur/sorumluluk dayanağını kurun. Ara sonuç: süre içinde ve unsurlar tamsa dilekçe taslağı avukat incelemesine hazır.
 
 ## Çıktı modülleri
 - İptal/tam yargı dava dilekçesi taslağı (İYUK m.3 başlıklı)

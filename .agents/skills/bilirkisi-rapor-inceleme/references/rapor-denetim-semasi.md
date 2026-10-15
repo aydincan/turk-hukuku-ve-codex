@@ -5,9 +5,9 @@ Raporu dört eksende (usul, metodoloji, hesap, çelişki) sistematik denetleyip 
 
 ## Soğuk başlangıç (intake)
 - Görevlendirme kararındaki sorular ile raporun yanıtladığı sorular örtüşüyor mu?
-- Hangi husus(lar) sizin aleyhinize ve neden hatalı olduğunu düşünüyorsunuz?
+- Hangi husus(lar) müvekkilin aleyhine ve neden hatalı görülüyor?
 - Dosyada raporla çelişen başka delil/rapor var mı?
-- Hedefiniz raporu tümden çürütmek mi, yoksa belirli kalemleri düzeltmek mi?
+- Hedef raporu tümden çürütmek mi, yoksa belirli kalemleri düzeltmek mi?
 
 ## Denetim şeması
 1. **Usul ekseni:** Bilirkişinin yetkisi, yemini, uzmanlık alanı sınırı (6754 s.K. m.3), görevlendirme kapsamına uygunluk (HMK m.273). Kapsam aşımı veya eksik yanıt belirlenir.

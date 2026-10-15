@@ -12,11 +12,26 @@ Aile hukuku uygulaması: evlenme, boşanma sebepleri (TMK m.161-166), nafaka tü
 ## Çalışma akışı
 
 1. **Süre/aciliyet taraması:** Hak düşürücü süre, zamanaşımı, tebligat, duruşma, itiraz
-   süresi var mı? Varsa önce onu sabitle.
-2. **Olayı sabitle:** Çekişmesiz/çekişmeli olgular ve eksikler; en çok bir gezelim soru.
+   süresi var mı? Varsa önce onu sabitle; süre hesabı, dosyayı üstlenen hukukçu
+   tarafından teyit edilmelidir.
+2. **Olayı sabitle:** Kim soruyor (avukat, stajyer, müşavir, akademisyen)? Çekişmesiz/
+   çekişmeli olgular ve eksikler; en çok bir belirleyici soru.
 3. **Alt-konuya in:** Aşağıdaki tablodan ilgili konuyu seç ve `references/<konu>.md`
    dosyasını oku; oradaki denetim şemasını uygula.
 4. **Altlama ve sonuç:** Olay → norm → altlama → gerekçeli sonuç; somut sonraki adım.
+   Kullanıcı hukukçu değilse bu adım bir avukata ya da baronun adli yardım bürosuna
+   başvurmaktır.
+
+## Kimin için
+
+Bu skill avukatlar ve hukukçular içindir (avukat, stajyer avukat, şirket hukukçusu,
+akademisyen, hukuk öğrencisi).
+Soran, kendi işi için gelen ve hukukçu olmayan bir kişiyse: kanunun ne dediğini ve
+ilgili kararları genel olarak açıkla, resmî metni getir; bir süre işliyor olabilirse
+kanundaki süreyi ve dayanağını açıkça yaz. Kişiye özel hukuki görüş, strateji, sonuç
+tahmini ya da imzalanmaya veya mahkemeye verilmeye hazır belge üretme. Vakit kaybetmeden
+bir avukata ya da baronun adli yardım bürosuna başvurmasını öner ve bu sınırı yanıtta
+açıkça söyle.
 
 ## Alt-konular
 
@@ -44,5 +59,8 @@ değil onlardan çek. Ayrıntılı kural kökteki `AGENTS.md`'dedir.
 
 ---
 
-*Deneysel; hukuki danışmanlık değildir. Çıktılar yürürlükteki mevzuat ve doğrulanmış
-içtihatla teyit edilmelidir. Bkz. `SORUMLULUK-REDDI.md`.*
+*Bu skill hukukçular içindir ve hukukçunun çalışmasını yapılandırır; deneyseldir. Çıktılar
+taslaktır; kullanılmadan önce dosyayı üstlenen yetkili hukukçu tarafından incelenmeli,
+yürürlükteki mevzuat ve doğrulanmış içtihatla teyit edilmelidir. Müvekkile ya da başka bir
+kişiye iletilecek metinlerde yapay zekâdan yararlanıldığı belirtilmelidir. Hukuki
+danışmanlık değildir. Bkz. `SORUMLULUK-REDDI.md`.*

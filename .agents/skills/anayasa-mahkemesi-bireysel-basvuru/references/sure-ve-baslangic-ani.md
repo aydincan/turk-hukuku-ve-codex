@@ -5,7 +5,7 @@ Otuz günlük başvuru süresinin doğru başlangıç anını saptamak, hesabı 
 
 ## Soğuk başlangıç (intake)
 - Nihai (kesin) karar nedir ve başvurucuya ne zaman tebliğ edildi?
-- Tebligat yapılmadıysa kararı fiilen ne zaman öğrendiniz, bunu neyle ispatlarsınız?
+- Tebligat yapılmadıysa başvurucu kararı fiilen ne zaman öğrendi, bu neyle ispatlanabilir?
 - Süreyi kaçırmaya yol açan bir mücbir sebep / ağır engel var mı?
 - Bugün itibarıyla kaç gün geçti?
 

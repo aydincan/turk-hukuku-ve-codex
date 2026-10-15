@@ -14,7 +14,7 @@
 2. İstinaf sebepleri (HMK m.342, m.355): Dilekçe istinaf sebeplerini içermeli; BAM kural olarak sebeplerle bağlı, kamu düzeni hariç. Sebepleri somutlaştırın: yanlış vakıa tespiti, delil değerlendirme hatası, hukukun yanlış uygulanması, usul hatası (gerekçe yokluğu HMK m.297).
 3. Temyiz sebepleri (HMK m.371): Yargıtay yalnızca hukuka aykırılığı denetler; maddi vakıa yeniden incelenmez. Sebepleri hukuk normuna aykırılık ekseninde yazın.
 4. Talep: Kararın kaldırılması/bozulması ve (istinafta) yeniden esas hakkında karar veya gönderme.
-5. Harç ve ek: Kanun yolu harcı yatırılmalı; dilekçe karar örneğiyle sunulur. Ara sonuç: süre/sınır/sebep uygunsa dilekçe hazır; kesinse müvekkil bilgilendirilir.
+5. Harç ve ek: Kanun yolu harcı yatırılmalı; dilekçe karar örneğiyle sunulur. Ara sonuç: süre/sınır/sebep uygunsa dilekçe taslağı avukat incelemesine hazır; kesinse müvekkil bilgilendirilir.
 
 ## Çıktı modülleri
 - İstinaf/temyiz dilekçesi taslağı (sebepler numaralı)

@@ -14,7 +14,7 @@ HMK m.119'un zorunlu unsurlarını eksiksiz taşıyan, vakıa-altlama-talep omur
 2. Talep sonucu netliği: İnfaz edilebilir biçimde yazın; alacakta ana para + faiz (başlangıç tarihi ve oranı TBK m.88/120 veya 3095 s.K.) + yargılama gideri + vekâlet ücreti. Belirsiz alacak davası ise HMK m.107 dayanağını ve fazlaya ilişkin hakkı belirtin.
 3. Harç ve gider: Nispi/maktu harç değere göre; eksik harç dava şartı niteliğinde tamamlanır.
 4. Delil bağlama: HMK m.194 somutlaştırma yükü; her delili ilgili vakıaya bağlayın. Senetle ispat sınırı (m.200) aşılıyorsa tanık caiz değildir, dikkat edin.
-5. Dava şartları kontrolü (m.114): arabuluculuk, görev, yetki, hukuki yarar. Ara sonuç: unsurlar tamsa imzaya hazır; değilse `[doldurulacak]` yer tutucuları ve eksik listesi.
+5. Dava şartları kontrolü (m.114): arabuluculuk, görev, yetki, hukuki yarar. Ara sonuç: unsurlar tamsa taslak, avukatın son incelemesine ve imzasına hazırdır; değilse `[doldurulacak]` yer tutucuları ve eksik listesi.
 
 ## Çıktı modülleri
 - Tam dava dilekçesi taslağı (m.119 başlıklı)

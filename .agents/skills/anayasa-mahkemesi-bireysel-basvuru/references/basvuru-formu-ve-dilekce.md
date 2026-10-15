@@ -19,7 +19,7 @@
 
 İspat yükü: tüm iddiaların belgeyle desteklenmesi başvurucuya aittir.
 
-Ara sonuç: forma hazır, eksiksiz başvuru taslağı.
+Ara sonuç: forma aktarılmaya ve avukat incelemesine hazır, eksiksiz başvuru taslağı.
 
 ## Çıktı modülleri
 - Başvuru formu taslağı (alan alan, [doldurulacak] yer tutucularıyla).

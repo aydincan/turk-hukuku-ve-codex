@@ -4,7 +4,7 @@
 Vergi mahkemesi kararına karşı hangi kanun yolunun açık olduğunu (istinaf/temyiz/kesinlik) belirlemek; başvuru süresini, parasal sınırları ve bozma-kaldırma sebeplerini doğru kurgulamak.
 
 ## Soğuk başlangıç (intake)
-1. Vergi mahkemesi kararı lehe mi aleyhe mi; karar size ne zaman tebliğ edildi?
+1. Vergi mahkemesi kararı lehe mi aleyhe mi; karar ne zaman tebliğ edildi?
 2. Uyuşmazlığın parasal değeri (vergi aslı + ceza) ne kadar?
 3. Karar tek hâkimle mi kurul halinde mi verildi?
 4. İtiraz edilecek husus maddi vakıa mı yoksa hukuki yorum/usul mü?

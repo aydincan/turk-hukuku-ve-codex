@@ -6,7 +6,7 @@ Fikri-sınai tecavüzün ceza boyutunu (marka suçları SMK m.30, telif suçlar�
 ## Soğuk başlangıç (intake)
 - Tecavüz markaya mı yoksa telife mi ilişkin; hak tescilli mi?
 - Taklit ürün üretimi/satışı/ithali var mı; ticari ölçek nedir?
-- Şikâyet süresi içinde misiniz; uzlaşma kapsamı düşünüldü mü?
+- Şikâyet süresi içinde kalınıyor mu; uzlaşma kapsamı düşünüldü mü?
 - Arama-el koyma için yeterli somut delil var mı?
 
 ## Denetim şeması

@@ -1,7 +1,7 @@
 # İhtarname ve Tebligat Sadeleştirme
 
 ## Görev
-Müvekkile ulaşan ihtarname, tebligat, ödeme emri veya icra emrini; "kim, ne istiyor, kaç gün
+Müvekkile ulaşan ihtarname, tebligat, ödeme emri veya icra emrini, avukatın müvekkile anlatması için; "kim, ne istiyor, kaç gün
 içinde ne yapmalıyım, yapmazsam ne olur" sorularına net cevap verecek şekilde sadeleştirmek.
 Bu belgelerde süreler hayati olduğu için doğruluk önceliklidir.
 
@@ -18,7 +18,8 @@ Bu belgelerde süreler hayati olduğu için doğruluk önceliklidir.
 2. TALEBİN NETLİĞİ: Ne istendiği (asıl alacak, faiz, masraf ayrımıyla) ve dayanağı yalın aktarılır.
 3. SEÇENEKLER VE SONUÇLAR (risk): "Öderim / itiraz ederim / hiçbir şey yapmam" seçeneklerinin
    sonuçları açıkça yazılır. İtiraz edilmezse takibin kesinleşeceği (İİK m.62/son, m.78 haciz)
-   net belirtilir; kambiyo takibinde itirazın icrayı durdurmadığı uyarılır.
+   net belirtilir; kambiyo takibinde itirazın icrayı durdurmadığı uyarılır. Hangi yolun izleneceği
+   avukatın değerlendirmesine ve müvekkilin kararına bırakılır.
 4. YETKİ/İCRA DAİRESİ: Hangi icra dairesi/mahkeme, hangi merciye itiraz yapılacağı belirtilir.
 5. İSPAT NOTU: İtiraz veya ödeme tarihinin ve şeklinin kanıtlanabilir olması gerektiği hatırlatılır.
 6. ARA SONUÇ (istisna): Sade açıklama bilgilendirmedir; asıl bağlayıcı belge tebliğ edilen

@@ -5,9 +5,9 @@ Resmî bilirkişi raporunun teknik yanını, tarafın kendi seçtiği bir uzmand
 
 ## Soğuk başlangıç (intake)
 - Raporun çürütülmek istenen teknik noktası tam olarak nedir?
-- Bu alanda mütalaa verebilecek bağımsız bir uzman erişiminiz var mı?
+- Bu alanda mütalaa verebilecek bağımsız bir uzmana erişim var mı?
 - Mütalaa, rapordaki yöntem hatasını mı yoksa hesap/veri hatasını mı hedefliyor?
-- Mütalaayı itiraz süresine yetiştirebilecek misiniz?
+- Mütalaa itiraz süresine yetiştirilebilecek mi?
 
 ## Denetim şeması
 1. **Delil niteliği:** Tarafın aldığı uzman mütalaası, mahkemece atanan bilirkişi raporu gibi bağlayıcı bir delil olmayıp tarafın iddiasını destekleyen, hâkimin serbest takdirine (HMK m.282) sunulan bir görüştür. Bu sınır mütalaada açıkça belirtilmelidir.

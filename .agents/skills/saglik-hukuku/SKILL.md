@@ -12,11 +12,26 @@ Sağlık hukuku: hekimin hukuki/cezai sorumluluğu, aydınlatılmış onam, malp
 ## Çalışma akışı
 
 1. **Süre/aciliyet taraması:** Hak düşürücü süre, zamanaşımı, tebligat, duruşma, itiraz
-   süresi var mı? Varsa önce onu sabitle.
-2. **Olayı sabitle:** Çekişmesiz/çekişmeli olgular ve eksikler; en çok bir gezelim soru.
+   süresi var mı? Varsa önce onu sabitle; süre hesabı, dosyayı üstlenen hukukçu
+   tarafından teyit edilmelidir.
+2. **Olayı sabitle:** Kim soruyor (avukat, stajyer, müşavir, akademisyen)? Çekişmesiz/
+   çekişmeli olgular ve eksikler; en çok bir belirleyici soru.
 3. **Alt-konuya in:** Aşağıdaki tablodan ilgili konuyu seç ve `references/<konu>.md`
    dosyasını oku; oradaki denetim şemasını uygula.
 4. **Altlama ve sonuç:** Olay → norm → altlama → gerekçeli sonuç; somut sonraki adım.
+   Kullanıcı hukukçu değilse bu adım bir avukata ya da baronun adli yardım bürosuna
+   başvurmaktır.
+
+## Kimin için
+
+Bu skill avukatlar ve hukukçular içindir (avukat, stajyer avukat, şirket hukukçusu,
+akademisyen, hukuk öğrencisi).
+Soran, kendi işi için gelen ve hukukçu olmayan bir kişiyse: kanunun ne dediğini ve
+ilgili kararları genel olarak açıkla, resmî metni getir; bir süre işliyor olabilirse
+kanundaki süreyi ve dayanağını açıkça yaz. Kişiye özel hukuki görüş, strateji, sonuç
+tahmini ya da imzalanmaya veya mahkemeye verilmeye hazır belge üretme. Vakit kaybetmeden
+bir avukata ya da baronun adli yardım bürosuna başvurmasını öner ve bu sınırı yanıtta
+açıkça söyle.
 
 ## Alt-konular
 
@@ -31,7 +46,7 @@ Sağlık hukuku: hekimin hukuki/cezai sorumluluğu, aydınlatılmış onam, malp
 | Dava, Usul ve Görev-Yetki | [`references/dava-usul-gorev-yetki.md`](references/dava-usul-gorev-yetki.md) | Tıbbi uyuşmazlıkta hangi mahkemenin görevli ve yetkili olduğunu, hangi dava türünün açılacağını ve dava şartlarını belirlemek için kullanılır; adli/idari yargı ayrımını çözer. |
 | Süreler ve Zamanaşımı | [`references/sureler-zamanasimi.md`](references/sureler-zamanasimi.md) | Tıbbi sorumluluk talebinde hangi zamanaşımı süresinin (sözleşme, haksız fiil, idari, cezai) işlediğini ve başlangıç anını hesaplamak için kullanılır; rejim seçiminin tazminat hakkına etkisini ortaya koyar. |
 | İspat, Delil ve Bilirkişi/ATK Raporu | [`references/ispat-delil-bilirkisi.md`](references/ispat-delil-bilirkisi.md) | Tıbbi uyuşmazlıkta ispat yükünün dağılımını, hangi delillerin toplanacağını ve ATK/bilirkişi raporlarının nasıl denetleneceğini belirlemek için kullanılır. |
-| Dilekçe, Sözleşme ve Başvuru Taslağı | [`references/dilekce-sozlesme-taslagi.md`](references/dilekce-sozlesme-taslagi.md) | Tıbbi uyuşmazlıkta dava dilekçesi, onam formu, sağlık hizmeti sözleşmesi veya idareye başvuru gibi belgelerin iskeletini üretmek için kullanılır; yer tutucu disipliniyle hazır taslak sağlar. |
+| Dilekçe, Sözleşme ve Başvuru Taslağı | [`references/dilekce-sozlesme-taslagi.md`](references/dilekce-sozlesme-taslagi.md) | Tıbbi uyuşmazlıkta dava dilekçesi, onam formu, sağlık hizmeti sözleşmesi veya idareye başvuru gibi belgelerin iskeletini üretmek için kullanılır; yer tutucu disipliniyle avukat incelemesine hazır taslak sağlar. |
 | Risk Değerlendirmesi, Strateji ve Müvekkil İletişimi | [`references/risk-strateji-iletisim.md`](references/risk-strateji-iletisim.md) | Tıbbi uyuşmazlıkta hekim, hastane veya hasta tarafının dava başarı şansını, risklerini ve müzakere/sulh seçeneklerini değerlendirmek ve müvekkile sade bir yol haritası sunmak için kullanılır. |
 - Alanın metodolojisi ve kaynak notu: [`references/_metodoloji.md`](references/_metodoloji.md)
 
@@ -45,5 +60,8 @@ değil onlardan çek. Ayrıntılı kural kökteki `AGENTS.md`'dedir.
 
 ---
 
-*Deneysel; hukuki danışmanlık değildir. Çıktılar yürürlükteki mevzuat ve doğrulanmış
-içtihatla teyit edilmelidir. Bkz. `SORUMLULUK-REDDI.md`.*
+*Bu skill hukukçular içindir ve hukukçunun çalışmasını yapılandırır; deneyseldir. Çıktılar
+taslaktır; kullanılmadan önce dosyayı üstlenen yetkili hukukçu tarafından incelenmeli,
+yürürlükteki mevzuat ve doğrulanmış içtihatla teyit edilmelidir. Müvekkile ya da başka bir
+kişiye iletilecek metinlerde yapay zekâdan yararlanıldığı belirtilmelidir. Hukuki
+danışmanlık değildir. Bkz. `SORUMLULUK-REDDI.md`.*

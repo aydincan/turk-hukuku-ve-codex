@@ -1,22 +1,37 @@
 ---
 name: dava-dilekce-atolyesi
-description: "Layiha üretimi: HMK/İYUK/CMK'ya uygun dava, cevap, replik-düplik, istinaf ve temyiz dilekçeleri; vakıa-hukuki sebep-talep sonucu mimarisi, delil bağlama ve [doldurulacak] yer tutucu disiplini. Bu beceriyi Dava Dilekçesi ve Layiha Atölyesi alanındaki sorular, olaylar ve belgeler için kullan (dava dilekçesi, cevap dilekçesi, layiha, talep sonucu, vakıa, hukuki sebep, temyiz dilekçesi, istinaf dilekçesi). Alan dışı konularda tetiklenme."
+description: "Avukatlar için layiha taslağı: HMK, İYUK ve CMK'ya uygun dava, cevap, replik, düplik, istinaf ve temyiz dilekçeleri; vakıa, hukuki sebep ve talep sonucu mimarisi, delil bağlama ve [doldurulacak] yer tutucu disiplini. Çıktı, avukat denetimine hazır müsveddedir. Bu beceriyi Dava Dilekçesi ve Layiha Atölyesi alanındaki sorular, olaylar ve belgeler için kullan (dava dilekçesi, cevap dilekçesi, layiha, talep sonucu, vakıa, hukuki sebep, temyiz dilekçesi, istinaf dilekçesi). Alan dışı konularda tetiklenme."
 ---
 
 # Dava Dilekçesi ve Layiha Atölyesi
 
-Layiha üretimi: HMK/İYUK/CMK'ya uygun dava, cevap, replik-düplik, istinaf ve temyiz dilekçeleri; vakıa-hukuki sebep-talep sonucu mimarisi, delil bağlama ve [doldurulacak] yer tutucu disiplini.
+Avukatlar için layiha taslağı: HMK, İYUK ve CMK'ya uygun dava, cevap, replik, düplik, istinaf ve temyiz dilekçeleri; vakıa, hukuki sebep ve talep sonucu mimarisi, delil bağlama ve [doldurulacak] yer tutucu disiplini. Çıktı, avukat denetimine hazır müsveddedir.
 
 **Başat mevzuat:** HMK 6100, CMK 5271, 2577 İYUK
 
 ## Çalışma akışı
 
 1. **Süre/aciliyet taraması:** Hak düşürücü süre, zamanaşımı, tebligat, duruşma, itiraz
-   süresi var mı? Varsa önce onu sabitle.
-2. **Olayı sabitle:** Çekişmesiz/çekişmeli olgular ve eksikler; en çok bir gezelim soru.
+   süresi var mı? Varsa önce onu sabitle; süre hesabı, dosyayı üstlenen hukukçu
+   tarafından teyit edilmelidir.
+2. **Olayı sabitle:** Kim soruyor (avukat, stajyer, müşavir, akademisyen)? Çekişmesiz/
+   çekişmeli olgular ve eksikler; en çok bir belirleyici soru.
 3. **Alt-konuya in:** Aşağıdaki tablodan ilgili konuyu seç ve `references/<konu>.md`
    dosyasını oku; oradaki denetim şemasını uygula.
 4. **Altlama ve sonuç:** Olay → norm → altlama → gerekçeli sonuç; somut sonraki adım.
+   Kullanıcı hukukçu değilse bu adım bir avukata ya da baronun adli yardım bürosuna
+   başvurmaktır.
+
+## Kimin için
+
+Bu skill avukatlar ve hukukçular içindir (avukat, stajyer avukat, şirket hukukçusu,
+akademisyen, hukuk öğrencisi).
+Soran, kendi işi için gelen ve hukukçu olmayan bir kişiyse: kanunun ne dediğini ve
+ilgili kararları genel olarak açıkla, resmî metni getir; bir süre işliyor olabilirse
+kanundaki süreyi ve dayanağını açıkça yaz. Kişiye özel hukuki görüş, strateji, sonuç
+tahmini ya da imzalanmaya veya mahkemeye verilmeye hazır belge üretme. Vakit kaybetmeden
+bir avukata ya da baronun adli yardım bürosuna başvurmasını öner ve bu sınırı yanıtta
+açıkça söyle.
 
 ## Alt-konular
 
@@ -47,5 +62,8 @@ değil onlardan çek. Ayrıntılı kural kökteki `AGENTS.md`'dedir.
 
 ---
 
-*Deneysel; hukuki danışmanlık değildir. Çıktılar yürürlükteki mevzuat ve doğrulanmış
-içtihatla teyit edilmelidir. Bkz. `SORUMLULUK-REDDI.md`.*
+*Bu skill hukukçular içindir ve hukukçunun çalışmasını yapılandırır; deneyseldir. Çıktılar
+taslaktır; kullanılmadan önce dosyayı üstlenen yetkili hukukçu tarafından incelenmeli,
+yürürlükteki mevzuat ve doğrulanmış içtihatla teyit edilmelidir. Müvekkile ya da başka bir
+kişiye iletilecek metinlerde yapay zekâdan yararlanıldığı belirtilmelidir. Hukuki
+danışmanlık değildir. Bkz. `SORUMLULUK-REDDI.md`.*

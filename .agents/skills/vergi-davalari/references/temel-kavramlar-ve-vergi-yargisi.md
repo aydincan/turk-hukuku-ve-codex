@@ -5,7 +5,7 @@ Müvekkilin elindeki belgeden hareketle uyuşmazlığı doğru sınıflandırmak
 
 ## Soğuk başlangıç (intake)
 1. Elinizde tam olarak hangi belge var: vergi/ceza ihbarnamesi mi, ödeme emri mi, düzeltme/şikâyet reddi mi, ihtiyati haciz/tahakkuk yazısı mı?
-2. Belge size ne zaman tebliğ edildi (eline geçti)? Tebligat usulü ne?
+2. Belge mükellefe ne zaman tebliğ edildi (eline geçti)? Tebligat usulü ne?
 3. Uyuşmazlık verginin aslına mı, cezaya mı, faize/gecikme zammına mı yoksa tahsil aşamasına mı ilişkin?
 4. Daha önce uzlaşma, düzeltme veya izaha davet süreci işletildi mi?
 
